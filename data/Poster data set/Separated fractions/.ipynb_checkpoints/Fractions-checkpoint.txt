@@ -1,0 +1,3 @@
+Fraction 5 of the Ion exchange was used
+Fraction 1 of the size exclusion was used
+Protein is in Fraction 7 of the affinity chromatography
