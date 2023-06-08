@@ -1,0 +1,12 @@
+>sp|Q8D079|LPHI_YERPE His operon leader peptide OS=Yersinia pestis GN=hisL PE=3 SV=1
+MNRVQFNHHHHHHPD
+>sp|Q8CKC6|LPT_YERPE Thr operon leader peptide OS=Yersinia pestis GN=thrL PE=3 SV=2
+MRYISLNTTIITTTETTGYGAG
+>tr|Q74TW7|Q74TW7_YERPE Putative trp operon leader peptide OS=Yersinia pestis GN=YP_2007 PE=4 SV=1
+MKTSLISLLRWWHISLSRAM
+>tr|Q7CIU5|Q7CIU5_YERPE Phenylalanyl-tRNA synthetase (PheST) operon leader peptide OS=Yersinia pestis GN=pheM PE=4 SV=1
+MHTVIFRFFFYFSA
+>tr|Q7ARH6|Q7ARH6_YERPE Putative repA translation protein OS=Yersinia pestis GN=tap PE=4 SV=1
+MFRKVQYLLRLLLLPCNISAGRCD
+>tr|Q0WI61|Q0WI61_YERPE Insertion element protein (Fragment) OS=Yersinia pestis GN=insB PE=4 SV=1
+VALICELDEQWSFVGNKAHQ
