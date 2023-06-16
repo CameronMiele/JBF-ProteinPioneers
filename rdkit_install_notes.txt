@@ -1,0 +1,5 @@
+Create an environment with a python version <=3.8
+  Ex:  conda create -n ENVIRONMENT_NAME python=3.7
+Install rdkit in that environment with
+    conda install -n ENVIRONMENT_NAME -c rdkit rdkit
+Install all other necessary packages
