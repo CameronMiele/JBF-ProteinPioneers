@@ -1,0 +1,32 @@
+>sp|Q8D079|LPHI_YERPE His operon leader peptide OS=Yersinia pestis GN=hisL PE=3 SV=1
+MNRVQFNHHHHHHPD
+>sp|Q8D1L4|LPID_YERPE IlvGMEDA operon leader peptide OS=Yersinia pestis GN=ilvL PE=4 SV=1
+MKAILQVINLVLISVVVIIIPPCGAALGRRKA
+>sp|Q8CKC6|LPT_YERPE Thr operon leader peptide OS=Yersinia pestis GN=thrL PE=3 SV=2
+MRYISLNTTIITTTETTGYGAG
+>sp|O68693|YSCA_YERPE Yop proteins translocation protein A OS=Yersinia pestis GN=yscA PE=3 SV=1
+MSQISTKHRTVLFRRWMAIICCLIINIAYLVY
+>tr|Q74TW7|Q74TW7_YERPE Putative trp operon leader peptide OS=Yersinia pestis GN=YP_2007 PE=4 SV=1
+MKTSLISLLRWWHISLSRAM
+>tr|Q74RE0|Q74RE0_YERPE Putative uncharacterized protein OS=Yersinia pestis GN=YP_3108 PE=4 SV=1
+MFLESMSSPLNLVLPLNGVLWLKQTAKSVMPASGVTH
+>tr|Q7CIU5|Q7CIU5_YERPE Phenylalanyl-tRNA synthetase (PheST) operon leader peptide OS=Yersinia pestis GN=pheM PE=4 SV=1
+MHTVIFRFFFYFSA
+>tr|Q7CG37|Q7CG37_YERPE Putative transposase OS=Yersinia pestis GN=y3787 PE=4 SV=1
+MLSREDFYMIKQMHQQGAYIIDIATLLAPVI
+>tr|Q7ARH6|Q7ARH6_YERPE Putative repA translation protein OS=Yersinia pestis GN=tap PE=4 SV=1
+MFRKVQYLLRLLLLPCNISAGRCD
+>tr|Q9RI14|Q9RI14_YERPE YPCD1.70c protein (Fragment) OS=Yersinia pestis GN=YPCD1.70c PE=4 SV=1
+MPIIAPIPRNKRHQMEKIVHKTADKNHSRHLIA
+>tr|Q9RIC1|Q9RIC1_YERPE YPMT1.77c protein (Fragment) OS=Yersinia pestis GN=YPMT1.77c PE=4 SV=1
+SAEVSPNLLNQNFNPLGINQVWVSDITY
+>tr|Q0WEN9|Q0WEN9_YERPE Putative uncharacterized protein OS=Yersinia pestis GN=YPO2282 PE=4 SV=1
+MEGPRTLGSDIDPFLTFMIGSSNGMEMAIDTPSDFT
+>tr|Q0WHV8|Q0WHV8_YERPE Phage integrase (Fragment) OS=Yersinia pestis GN=intA PE=4 SV=1
+MARTTRPLTHTEVQKAKTTDKDLTLHDGDGLFLL
+>tr|Q0WJ47|Q0WJ47_YERPE Putative uncharacterized protein OS=Yersinia pestis GN=YPO0622 PE=4 SV=1
+MSDAALNPGNMESLFGVVFMGLTKRRVISLSFAGR
+>tr|Q0WJC8|Q0WJC8_YERPE Putative uncharacterized protein OS=Yersinia pestis GN=YPO0538 PE=4 SV=1
+MLSLTLVAAVFLTVLLCLALTYLFMGNSHHSTESNE
+>tr|Q0WI61|Q0WI61_YERPE Insertion element protein (Fragment) OS=Yersinia pestis GN=insB PE=4 SV=1
+VALICELDEQWSFVGNKAHQ
