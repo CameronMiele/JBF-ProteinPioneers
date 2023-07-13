@@ -1,0 +1,6 @@
+Open Conda prompt and input:
+    conda create -c conda-forge -n my-rdkit-env rdkit
+Then to run jupyter in the rdkit environment, we need python version 3.9 or lower due to a bug, run this. (Note: Takes a while to complete)
+    conda install python=3.9
+Open the Anaconda Navigator, switch the environment from base to my-rdkit-env in the drop down menu at the top.
+Install and run JupyterLab.
