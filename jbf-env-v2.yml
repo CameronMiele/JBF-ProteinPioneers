@@ -1,0 +1,10 @@
+name: jbf-env-v2
+channels:
+  - defaults
+dependencies:
+  - biopython
+  - jupyterlab
+  - rdkit
+  - voila
+  - ipywidgets
+prefix: C:\Users\eyosp\anaconda3\envs\jbf-env-v2
