@@ -1,0 +1,34 @@
+>sp|C0H3V0|YCZM_BACSU Uncharacterized membrane protein YczM OS=Bacillus subtilis (strain 168) OX=224308 GN=yczM PE=3 SV=1
+MSGYGTSFALIVVLFILLIIVGTAFVGGY
+>sp|C0H3V1|YCZN_BACSU Uncharacterized membrane protein YczN OS=Bacillus subtilis (strain 168) OX=224308 GN=yczN PE=3 SV=1
+MSGYSNGGGYGGISSFALIVVLFILLIIVGTAFVGGF
+>sp|P23053|LPTR_BACSU Tetracycline resistance leader peptide OS=Bacillus subtilis (strain 168) OX=224308 GN=tetL PE=4 SV=1
+MKCNKMNRVQLKEGSVSMTL
+>tr|L8E9J8|L8E9J8_BACSU YjcZ family sporulation protein OS=Bacillus subtilis (strain 168) OX=224308 GN=yrpDX PE=3 SV=1
+MRSFPLIVVLFILLIIVGTSFFGGY
+>sp|Q7WY65|SSPM_BACSU Small, acid-soluble spore protein M OS=Bacillus subtilis (strain 168) OX=224308 GN=sspM PE=1 SV=1
+MKTRPKKAGQQKKTESKAIDSLDKKLGGPNRPST
+>sp|C0H3Y2|SSCA_BACSU Small spore coat assembly protein A OS=Bacillus subtilis (strain 168) OX=224308 GN=sscA PE=2 SV=1
+MSGGYSNGFALLVVLFILLIIVGAAYIY
+>sp|P37817|SPOVM_BACSU Stage V sporulation protein M OS=Bacillus subtilis (strain 168) OX=224308 GN=spoVM PE=1 SV=1
+MKFYTIKLPKFLGGIVRAMLGSFRKD
+>sp|A0A2K4Z9J5|BSRE_BACSU Small toxic protein BsrE OS=Bacillus subtilis (strain 168) OX=224308 GN=bsrE PE=1 SV=1
+MSTFQALMLMLAIGSFIIALLTYIEKIDLP
+>sp|O31869|YOTF_BACSU SPbeta prophage-derived uncharacterized protein YotF OS=Bacillus subtilis (strain 168) OX=224308 GN=yotF PE=4 SV=1
+MENVMSWFNIDFEIKSDNNIDKTLL
+>tr|A0A2K4Z9L3|A0A2K4Z9L3_BACSU Uncharacterized protein OS=Bacillus subtilis (strain 168) OX=224308 GN=BSU_26935 PE=4 SV=1
+MIGEKGGVSMNREEAWIQGSSTLIELIGGNEAA
+>sp|C0H435|YOYG_BACSU Uncharacterized membrane protein YoyG OS=Bacillus subtilis (strain 168) OX=224308 GN=yoyG PE=3 SV=1
+MYGYSGYGYGFGCGTNTFVLIVVLFILLIIVGAAFIC
+>tr|L8ECR0|L8ECR0_BACSU Fur-regulated basic protein FbpC OS=Bacillus subtilis (strain 168) OX=224308 GN=fbpC PE=4 SV=1
+MTMLFLLGAVCTYSVLIGFVLKGISNKSV
+>sp|O07004|YVEF_BACSU Uncharacterized protein YveF OS=Bacillus subtilis (strain 168) OX=224308 GN=yveF PE=4 SV=1
+MKKPVLKPFASLEIKVDPPITIGETSLGLR
+>sp|O07593|YHDX_BACSU Uncharacterized protein YhdX OS=Bacillus subtilis (strain 168) OX=224308 GN=yhdX PE=4 SV=1
+MGKGRIRVEERIKAETDAEMQKATLLDQTQTKKGK
+>sp|L8EBJ6|SSCB_BACSU Probable small spore coat assembly protein B OS=Bacillus subtilis (strain 168) OX=224308 GN=sscB PE=2 SV=1
+MGEVFAGGFALLVVLFILLIIIGASWLY
+>sp|A0A2K4Z9K4|BSRH_BACSU Probable small toxic protein BsrH OS=Bacillus subtilis (strain 168) OX=224308 GN=bsrH PE=2 SV=1
+MHVSTFQALMLMLAFGSFIIALLTYIKKK
+>sp|P08497|LPA2_BACSU Aspartokinase II operon leader peptide OS=Bacillus subtilis (strain 168) OX=224308 GN=ask PE=1 SV=1
+MKKAERGASPKQIKPHRYYLLAVH
