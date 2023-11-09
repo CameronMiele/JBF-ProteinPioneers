@@ -1,0 +1,1 @@
+Only protein in fraction to pass Hist affinity check is the tagged protein, placed in fraction 7.
