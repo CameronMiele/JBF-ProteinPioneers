@@ -1,0 +1,2 @@
+Separations done via 3.0-60.0 kDa Size Exclusion, followed by Ion Exchange w/ Q(+) media and Histidine affinity, in that order taking the 1/7 fraction containing the tagged protein (Q8D0D8)
+Tagged protein is in fraction 7
